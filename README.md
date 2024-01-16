@@ -67,3 +67,37 @@ Project Evaluation:
 - User satisfaction with the application’s functionality and UI/UX
 - Quality of code and project structure
 - Presentation quality and clarity of communication
+
+
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/d14bc8c1-2865-4b48-a08c-430984436c68" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/54244dbd-20ab-4178-95c1-e55d3b4de7bf" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/dcad844b-1adf-4c4a-9bb9-ea0e7a290702" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/123a7832-0ec4-4222-97d5-512951cf8527" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/eeff6430-e97d-4122-ab2e-a9cdb2cb4f81" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/32001fb2-7b99-439c-a06f-b9d9cac563b0" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/dc78b45d-4c6f-4ab5-8be2-5dbfeb265906" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/7f8efaba-738f-4d7f-b407-2947c22f15a2" width="250px">
+
+<img src="https://github.com/vrundpadariya/weather_app/assets/133338321/832813d2-fe18-4d1f-bc53-c323bf2bba5a" width="250px">
+
+
+
+![s8]()
+![s6]()
+![s3]()
+![s2]()
+![16]()
+![15]()
+![14]()
+![13]()
+![12]()
+
+
