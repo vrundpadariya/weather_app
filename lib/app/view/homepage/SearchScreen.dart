@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../provider/api.dart';
 import '../../provider/cityList.dart';
-import '../../provider/sharePreferenceList.dart';
 import 'Homepage.dart';
 
 class SearchPage extends StatefulWidget {
@@ -20,22 +19,11 @@ class _SearchPageState extends State<SearchPage> {
   @override
   void initState() {
     // TODO: implement initState
-    valueFunction();
+
     super.initState();
   }
 
   List<String>? valuex;
-
-  valueFunction() {
-    SharedPref.getListString().then((value) {
-      print(value);
-      setState(() {
-        valuex = value;
-        print(valuex);
-        print(cityName);
-      });
-    });
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -76,8 +64,6 @@ class _SearchPageState extends State<SearchPage> {
                 onSelected: (selection) async {
                   cityName.add(selection);
                   print(cityName.length);
-                  SharedPref.setListString(token: cityName);
-                  valueFunction();
 
                   await lanProvider.fetchApiData(selection).then((value) {
                     if (value != null) {

@@ -38,10 +38,8 @@ dependencies:
   connectivity_bloc:
   provider:
   http:
-  connectivity_plus:
-  async_wallpaper:
-  flutter_cache_manager:
   intl:
+  introduction_screen:
   shared_preferences:
 
 dev_dependencies:
